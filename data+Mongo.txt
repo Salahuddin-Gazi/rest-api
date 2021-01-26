@@ -1,0 +1,187 @@
+{
+            "author": null,
+            "title": "Tesla 2021: Great Expectations And Inescapable Realities",
+            "description": "The Q4 investor call will take place on Wednesday. MaxedOutMama and I have questions.",
+            "url": "https://seekingalpha.com/article/4401003-tesla-2021-great-expectations-and-inescapable-realities",
+            "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+            "publishedAt": "2021-01-26T14:52:00Z",
+            "content": null
+        },
+        {
+            "author": "Jonathan Ponciano, Forbes Staff, \n Jonathan Ponciano, Forbes Staff\n https://www.forbes.com/sites/jonathanponciano/",
+            "title": "Gamestop Keeps Rising, Dow Up 100 Points As ‘Terrific’ Earnings Boost S&P, Nasdaq To New Highs",
+            "description": "GameStop shares are still on a tear, climbing nearly 20% Tuesday morning.",
+            "url": "https://www.forbes.com/sites/jonathanponciano/2021/01/26/dow-up-100-points-gamestop-nasdaq-sp-earnings/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbd2c9f329f68215075fd88%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2151%26cropY1%3D56%26cropY2%3D1266",
+            "publishedAt": "2021-01-26T14:46:30Z",
+            "content": "Stocks are still tacking on to record highs as earnings continue to show businesses are doing well despite the pandemic's ongoing toll on the broader economyand the biggest fourth-quarter earnings re… [+2930 chars]"
+        },
+        {
+            "author": "Süddeutsche Zeitung",
+            "title": "Leute des Tages: Innere und äußere Schönheit",
+            "description": "Jennifer Lopez erklärt, warum sie kein Botox braucht, und Elon Musk beeinflusst die Börse - weil er seinem Hund eine Mütze kauft.",
+            "url": "https://www.sueddeutsche.de/panorama/promis-leute-des-tages-jennifer-lopez-elon-musk-gary-barlow-1.5186529",
+            "urlToImage": "https://www.sueddeutsche.de/image/sz.1.5186530/1200x675?v=1611672038",
+            "publishedAt": "2021-01-26T14:45:52Z",
+            "content": "Jennifer Lopez erklärt, warum sie kein Botox braucht, und Elon Musk beeinflusst die Börse - weil er seinem Hund eine Mütze kauft.Jennifer Lopez, 51, US-Sängerin, verrät das beste Mittel gegen Falten.… [+2596 chars]"
+        },
+        {
+            "author": "Peter Koenig",
+            "title": "Pandemic, Lockdown, Economic Disaster: Are We at War?",
+            "description": "Are we at War? This has become a legitimate question over the last 12 months in the western world.\nAnd we are not talking of war by the west against Russia or China, or the east in general. It’s a …\nThe post Pandemic, Lockdown, Economic Disaster: Are We at Wa…",
+            "url": "https://www.globalresearch.ca/pandemic-lockdown-economic-disaster-are-we-war/5735433",
+            "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2020/05/savings-covid.png",
+            "publishedAt": "2021-01-26T14:44:56Z",
+            "content": "Are we at War? This has become a legitimate question over the last 12 months in the western world.\r\nAnd we are not talking of war by the west against Russia or China, or the east in general. Its a wa… [+20621 chars]"
+        },
+        {
+            "author": "Mark Garrelts",
+            "title": "Prosus blaast stoom af in hogere AEX; rugwind bij luchtvaart",
+            "description": "De AEX houdt dinsdag in de late middsghandel de blik opwaarts gericht. De mooie herstelbeweging bij de banken en vastgoed geven steun aan de handel. Prosus maakt een terugtrekkende beweging. In de Midkap laat Air France KLM een zonnig beeld zien.",
+            "url": "https://www.telegraaf.nl/financieel/112852333/prosus-blaast-stoom-af-in-hogere-aex-rugwind-bij-luchtvaart",
+            "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5fb055ba-5fa7-11eb-8d23-0217670beecd.jpg",
+            "publishedAt": "2021-01-26T14:44:00Z",
+            "content": "De AEX staat rond kwart voor vier 0,4% hoger op 661,4 punten. De AMX stijgt 1,1% naar 977,5 punten.\r\nDe overige Europese beurzen herstellen eveneens van de verliezen op maandag. De Britse FTSE 100, d… [+3729 chars]"
+        },
+        {
+            "author": "Johnna Crider",
+            "title": "Scottish Fund Managers Bought Tesla Shares At $6 Each, Feeling “The Tesla Effect”",
+            "description": "Baillie Gifford, a fund manager in Edinburgh, Scotland, scored a $29 billion profit off of its Tesla (TSLA) investments. The firm bought its first TSLA shares when they were just $6 each, reported The Guardian. At the time of The Guardian's article, TSLA was …",
+            "url": "https://cleantechnica.com/2021/01/26/scottish-fund-managers-bought-tesla-shares-at-6-each-feeling-the-tesla-effect/",
+            "urlToImage": "https://cleantechnica.com/files/2020/12/Tesla-Model-Y-black-Tommy-Bahamas-Model-S-red-Sarasota-Florida-Tesla-store-Zach-Shahan-CleanTechnica-Bazaar.jpeg",
+            "publishedAt": "2021-01-26T14:42:43Z",
+            "content": "CarsPublished on January 26th, 2021 |\r\n by Johnna Crider\r\n0\r\nJanuary 26th, 2021 by Johnna Crider \r\nBaillie Gifford, a fund manager in Edinburgh, Scotland, scored a $29 billion profit off of its Tesla… [+3019 chars]"
+        },
+        {
+            "author": "djovarius",
+            "title": "Forum Geral • Re: A nova geração de investidores",
+            "description": "",
+            "url": "http://caldeiraodebolsa.jornaldenegocios.pt/viewtopic.php?t=92627&p=1618259#p1618259",
+            "urlToImage": null,
+            "publishedAt": "2021-01-26T14:41:26Z",
+            "content": "A celulose do Caima foi a nossa Tesla, lá atrás em 87.Subia 5% todos os dias, porque havia, nesse tempo da BVL, uma regra de corte quer para subidas, quer para descidas, portanto não dava para mais.É… [+1324 chars]"
+        },
+        {
+            "author": "Fred Lambert",
+            "title": "Tesla integrated dashcam caught road-raging driver shoot at electric car",
+            "description": "TeslaCam, Tesla’s integrated dashcam feature using Autopilot camera, caught a road-raging driver shoot live rounds at a Model 3 electric car on the highway for seemingly no reason. TeslaCam TeslaCam, along with Sentry Mode, is Tesla’s integrated dashcam syste…",
+            "url": "https://electrek.co/2021/01/26/tesla-integrated-dashcam-caught-road-raging-driver-shoot/",
+            "urlToImage": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/01/road-rage-shoot-at-tesla.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-01-26T14:40:06Z",
+            "content": "TeslaCam, Tesla’s integrated dashcam feature using Autopilot camera, caught a road-raging driver shoot live rounds at a Model 3 electric car on the highway for seemingly no reason.\r\nTeslaCam\r\nTeslaCa… [+1953 chars]"
+        },
+        {
+            "author": "Wes Michael Tomaselli, Deborah Bonello",
+            "title": "Biden’s Clean Energy Push Could Actually Destroy Land in Latin America",
+            "description": "The demand for metals used in electric vehicles and solar panels is on the rise, but Biden’s clean energy plan plus the pandemic means Latin America is about to get pillaged.",
+            "url": "https://www.vice.com/en/article/epdqyw/bidens-clean-energy-push-could-actually-destroy-land-in-latin-america",
+            "urlToImage": "https://video-images.vice.com/articles/600f3d6c4384dd009c148053/lede/1611611913958-gettyimages-1012196774.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDIzeGg7MHh3LDAuMTA3NnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+            "publishedAt": "2021-01-26T14:39:33Z",
+            "content": "JERICÓ, Colombia - From an outcrop of rock on Ariel Velasquezs coffee farm, you can hear a waterfall blast out of a giant rock face. Its foamy spray is the main attraction for coffee tourists who com… [+7751 chars]"
+        },
+        {
+            "author": "Deutsche Welle (www.dw.com)",
+            "title": "Es geht voran für Autobauer - aber langsam",
+            "description": "2020 sah es düster aus, 2021 wird es besser - das hofft die Autoindustrie. Dafür muss aber auch die Politik mitziehen, fordert ihr Verband VDA. Vor allem im Bereich der Klimapolitik. Es hört sich dramatisch an, was Hildegard Müller, Präsidentin des Verbandes …",
+            "url": "https://www.dw.com/de/vda-automarkt-elektromobilit%C3%A4t/a-56349376",
+            "urlToImage": "https://static.dw.com/image/54868231_6.jpg",
+            "publishedAt": "2021-01-26T14:37:00Z",
+            "content": "Es hört sich dramatisch an, was Hildegard Müller, Präsidentin des Verbandes der Automobilindustrie (VDA), auf der digital durchgeführten VDA-Jahrespressekonferenz sagt: \"Das Jahr 2021 wird über die Z… [+4402 chars]"
+        },
+        {
+            "author": "Redactie DFT",
+            "title": "Wall Street wint: GE en GameStop knallen omhoog",
+            "description": "Beurzen in New York openen dinsdag gemiddeld hoger. General Electric spoot omhoog, net als GameStop dat nog eens 26% meer waard werd. Beleggers verwerken series kwartaalresultaten maar kijken ook uit naar de belangrijke Federal Reserve-vergadering.",
+            "url": "https://www.telegraaf.nl/financieel/1389983565/wall-street-wint-ge-en-game-stop-knallen-omhoog",
+            "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5e7bb9f8-5fdb-11eb-aeb3-02d1dbdc35d1.jpg",
+            "publishedAt": "2021-01-26T14:32:00Z",
+            "content": "De Dow Jones-index wint 0,4%, evenals de S&amp;P 500. De Nasdaq-index stijgt 0,5%.\r\nDe vergoeding voor Amerikaanse staatsobligaties loopt op.\r\nDe markt reageerde ook op het rapport van het Internatio… [+1807 chars]"
+        },
+        {
+            "author": "Ben Winck",
+            "title": "US stocks waver as investors prepare for blue-chip earnings reports",
+            "description": "Summary List Placement<ul>\n<li>US stocks hovered near record highs on Tuesday as investors awaited earnings reports from tech giants.</li>\n<li>Microsoft is slated to report fiscal second-quarter results when the market closes. Apple and Tesla will report figu…",
+            "url": "https://www.businessinsider.com/stock-market-news-today-indexes-tech-earnings-season-biden-stimulus-2021-1",
+            "urlToImage": "https://i.insider.com/60101a971d2df20018b70d0e?width=1200&format=jpeg",
+            "publishedAt": "2021-01-26T14:31:34Z",
+            "content": "<ul><li>US stocks hovered near record highs on Tuesday as investors awaited earnings reports from tech giants. The S&amp;P 500 hit an intraday all-time peak in early trading.</li><li>Microsoft is sla… [+3466 chars]"
+        },
+        {
+            "author": "Investor's Business Daily",
+            "title": "Freeport-McMoRan Earnings Soar, But Mining Giant Cuts Production Targets; FCX Stock Edges Higher",
+            "description": "Freeport McMoRan earnings soared, meeting Q4 estimates. But the copper and gold mining giant trimmed 2021 production targets. FCX stock edged higher.",
+            "url": "https://www.investors.com/news/freeport-mcmoran-earnings-soar-production-targets-cut-fcx-stock/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/04/Biz03-FCX-042318-newscom.jpg",
+            "publishedAt": "2021-01-26T14:27:12Z",
+            "content": "Freeport-McMoRan (FCX), a top copper producer, posted fourth-quarter earnings Tuesday that met Wall Street expectations, but trimmed 2021 production guidance. FCX stock rose slightly in early stock m… [+3801 chars]"
+        },
+        {
+            "author": "JJ Kinahan, Senior Contributor, \n JJ Kinahan, Senior Contributor\n https://www.forbes.com/sites/jjkinahan/",
+            "title": "Avalanche Of Earnings: J&J, GE This Morning, Microsoft Later As Fed Meeting Starts",
+            "description": "The day began with really nice earnings from J&J and Raytheon. Crude is holding steady and generally things feel a bit more solid than yesterday. The FOMC meeting begins today but it would be surprising to see any major changes in their sentiment.",
+            "url": "https://www.forbes.com/sites/jjkinahan/2021/01/26/avalanche-of-earnings-jj-ge-this-morning-microsoft-later-as-fed-meeting-starts/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010249079869d913ea0ef76%2F0x0.jpg",
+            "publishedAt": "2021-01-26T14:23:28Z",
+            "content": "Getty Images\r\nGetty Images\r\nKey Takeaways:\r\n<ul><li>J&amp;J, in earnings report, promises update on vaccine trial soon</li><li>GE, J&amp;J, 3M earnings all look solid, with Microsoft reporting after … [+11045 chars]"
+        },
+        {
+            "author": null,
+            "title": "Tesla, BMW, Stellantis to receive electric vehicle battery aid in Europe",
+            "description": "The European Union cleared a path for companies to receive about €2.9B ($3.5B) of state aid for battery projects that will support the goal of producing more electric vehicles.",
+            "url": "https://seekingalpha.com/news/3654361-tesla-bmw-stellantis-to-receive-electric-vehicle-battery-aid-in-europe",
+            "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+            "publishedAt": "2021-01-26T14:18:17Z",
+            "content": null
+        },
+        {
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "The stock market is at peak dumb: Etsy soars because Elon Musk tweets about it",
+            "description": "Tesla CEO Elon Musk is the richest person on the planet, but he's apparently still happy to shop on handmade craft site Etsy. And in a sign of just how much influence Musk has on social media, shares of Etsy soared nearly 10% in premarket trading Tuesday just…",
+            "url": "https://www.cnn.com/2021/01/26/investing/elon-musk-etsy-twitter/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201104131225-01-elon-musk-0903-super-tease.jpg",
+            "publishedAt": "2021-01-26T14:16:27Z",
+            "content": "New York (CNN Business)Tesla CEO Elon Musk is the richest person on the planet, but he's apparently still happy to shop on handmade craft site Etsy. And in a sign of just how much influence Musk has … [+1133 chars]"
+        },
+        {
+            "author": "Reuters Staff",
+            "title": "Second European battery cell alliance includes BMW, Tesla - Altmaier - Reuters",
+            "description": "The European Commission gave the green light on Tuesday for supporting a second battery cell alliance of 42 companies from 12 member states, including carmakers BMW and Tesla, the German economy minister said.",
+            "url": "https://www.reuters.com/article/us-eu-germany-autos-batteries-idUSKBN29V1NL",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210126&t=2&i=1549110809&r=LYNXMPEH0P0Z7&w=800",
+            "publishedAt": "2021-01-26T14:16:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - The European Commission gave the green light on Tuesday for supporting a second battery cell alliance of 42 companies from 12 member states, including carmakers B… [+462 chars]"
+        },
+        {
+            "author": "newsfeedback@fool.com (Howard Smith)",
+            "title": "Investing in Tesla? Consider This EV Charging Stock Instead",
+            "description": "If Tesla and other electric-vehicle companies grow as expected, charging infrastructure names will win as well.",
+            "url": "https://www.fool.com/investing/2021/01/26/investing-in-tesla-consider-this-ev-charging-stock/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/606672/evboxcharging.jpg",
+            "publishedAt": "2021-01-26T14:15:00Z",
+            "content": "Shareholders of Tesla(NASDAQ:TSLA) have experienced incredible gains over the last few years. One explanation for a valuation that defies logic is that it's a bubble, with a drop to come that will be… [+3948 chars]"
+        },
+        {
+            "author": "Nicolò Canziani",
+            "title": "Starlink in Italia: Internet arriva dallo spazio",
+            "description": "L'eccentrico imprenditore sudafricano Elon Musk potrebbe continuare a far parlare molto di sé, presto anche in Italia. L'azienda Starlink, di proprietà del magnate di Tesla, avrebbe aperto lo scorso 15 dicembre una succursale italiana, la Starlink Italy srl. …",
+            "url": "https://www.ilgiornale.it/news/tecnologia/starlink-italia-internet-arriva-dallo-spazio-1919291.html",
+            "urlToImage": "https://img.ilgcdn.com/sites/default/files/foto/2021/01/25/1611613456-starlink.jpg",
+            "publishedAt": "2021-01-26T14:13:29Z",
+            "content": "L’eccentrico imprenditore sudafricano Elon Musk potrebbe continuare a far parlare molto di sé, presto anche in Italia. L’azienda Starlink, di proprietà del magnate di Tesla, avrebbe aperto lo scorso … [+2320 chars]"
+        },
+        {
+            "author": null,
+            "title": "CarParts.com Launches First Electric Vehicle & Hybrid Focused Shopping Hub",
+            "description": "TORRANCE, Calif.--(BUSINESS WIRE)--CarParts.com, Inc. (NASDAQ: PRTS) (\"CarParts.com\") this week launched a new dedicated shopping hub for the hybrid, plug-in hybrid, and electric vehicle (EV) community. The ecommerce retailer is transforming the way drivers s…",
+            "url": "https://www.businesswire.com/news/home/20210126005666/en/CarParts.com-Launches-First-Electric-Vehicle-Hybrid-Focused-Shopping-Hub",
+            "urlToImage": "https://mms.businesswire.com/media/20210126005666/en/854617/23/CarPartsCom_EV_1200x628.jpg",
+            "publishedAt": "2021-01-26T14:08:05Z",
+            "content": "TORRANCE, Calif.--(BUSINESS WIRE)--CarParts.com, Inc. (NASDAQ: PRTS) (\"CarParts.com\") this week launched a new dedicated shopping hub for the hybrid, plug-in hybrid, and electric vehicle (EV) communi… [+2847 chars]"
+        }
+
+
+create data >> db --> folder at c drive
+at cmd run mongod to launch mongoDB
+at cmd run  mongo to launch mongoDB amd
+at cmd show dbs >> to show created database
+at cmd db >> to show current database
